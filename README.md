@@ -1,2 +1,2 @@
 # Logistic_regression
-This is the logistic regression model .
+This is the logistic regression model.
